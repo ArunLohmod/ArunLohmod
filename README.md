@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ArunLohmod
 - 👀 I’m interested in free learning 😉
 - 🌱 I’m currently learning backend
+- 😎 will be a full stack developer soon ...
 
 <!---
 ArunLohmod/ArunLohmod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
