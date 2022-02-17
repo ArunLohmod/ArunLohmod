@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArunLohmod
-- 👀 I’m interested in free learning 😉
+- 👀 I’m a MERN developer
 - 🌱 I’m currently learning blockchain technologies..
 
 
