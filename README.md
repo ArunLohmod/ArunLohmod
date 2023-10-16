@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArunLohmod
 - 👀 I’m a Blockchain(Ethereum) & MERN developer
-- 🌱 I’m currently learning more about blockchain technologies..
+- 🌱 I’m currently learning more about blockchain technologies...
 
 
 <!---
